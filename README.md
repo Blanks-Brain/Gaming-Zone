@@ -1,6 +1,6 @@
 # Gaming-Zone
 
-requrement
+requrement br
 _libgcc_mutex             0.1                        main  
 _openmp_mutex             4.5                       1_gnu  
 alabaster                 0.7.12             pyhd3eb1b0_0  
